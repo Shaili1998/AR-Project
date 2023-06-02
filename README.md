@@ -1,4 +1,4 @@
-# AR-Project
+# Jewelry try-on  an Augmented Reality App
 
 ### Images for Earring and Necklace Try on
 
